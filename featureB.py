@@ -1,7 +1,9 @@
 import sys
 
-def f():
-    print "chainer"
+
+def featureB():
+    print "instead chainer with DyNet"
 
 if __name__ == "__main__":
-    f()
+    featureB()
+
