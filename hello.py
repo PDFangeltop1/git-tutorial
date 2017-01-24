@@ -10,4 +10,4 @@ def feature_A():
     print "in branch A"
 
 if __name__ == "__main__":
-    f()
+    feature_A()
