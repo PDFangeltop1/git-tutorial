@@ -9,5 +9,8 @@ def f1():
 def feature_A():
     print "in branch A"
 
+def feature_C():
+    print "message from feature_C , get repository from github."
+
 if __name__ == "__main__":
     feature_A()
